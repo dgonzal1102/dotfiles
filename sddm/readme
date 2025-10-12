@@ -1,0 +1,3 @@
+place sddm folder contents in /usr/share/sddm
+
+place sddm.conf.d content in /etc/sddm.conf.d
