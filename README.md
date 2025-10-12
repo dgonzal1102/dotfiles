@@ -1,4 +1,4 @@
-# dots
+# Dots
 
 ## Apps to install
 
@@ -8,4 +8,22 @@
 - swaync
 - waybar
 - fastfetch
-- nich
+- nitch
+- zshrc
+- oh-my-zsh
+- kitty
+- rofi
+- matugen
+- gotop
+- btop
+- chromium
+- swww
+- yay
+
+## Fonts to install
+
+- SF Pro
+- MesloLGS NF
+- JetBrains NF
+- Caskaydia Code NF
+- Font Awesome
