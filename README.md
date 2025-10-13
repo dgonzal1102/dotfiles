@@ -15,6 +15,7 @@
 | matugen | vscodium|
 | nvim | micro |
 | | nwg-lookup|
+| | tree |
 
 
 ## Fonts to install
