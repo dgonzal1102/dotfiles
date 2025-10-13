@@ -12,7 +12,9 @@
 | waybar | chromium |
 | fastfetch | btop |
 | zshrc | oh my zsh |
-| matugen | |
+| matugen | vscodium|
+| nvim | micro |
+| | nwg-lookup|
 
 
 ## Fonts to install
