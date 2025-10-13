@@ -14,7 +14,7 @@
 | zshrc | oh my zsh |
 | matugen | vscodium|
 | nvim | micro |
-| | nwg-lookup|
+| stow | nwg-lookup|
 | | tree |
 
 
