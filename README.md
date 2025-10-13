@@ -2,23 +2,18 @@
 
 ## Apps to install
 
-- hyprland
-- hypridle
-- hyprlock
-- swaync
-- waybar
-- fastfetch
-- nitch
-- zshrc
-- oh-my-zsh
-- kitty
-- rofi
-- matugen
-- gotop
-- btop
-- chromium
-- swww
-- yay
+| Dotfiles | Standard |
+| ---------| ---------|
+| hyprland | swaync |
+| hypridle | nitch |
+| hyprlock | yay |
+| kitty | swww |
+| rofi | gotop |
+| waybar | chromium |
+| fastfetch | btop |
+| zshrc | oh my zsh |
+| matugen | |
+
 
 ## Fonts to install
 
