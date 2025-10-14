@@ -28,7 +28,7 @@
 - Install vscodium-bin
 - Install oh-my-zsh from install script found on website
 - Install adw-gtk-theme
-- Ibsyall papirus-icon-theme
+- Install papirus-icon-theme
 
 ## Fonts to install using Yay
 
