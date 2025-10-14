@@ -30,6 +30,9 @@
 - Install adw-gtk-theme
 - Install papirus-icon-theme
 
+- Change shell to zsh -> chsh -s /bin/zsh
+- Logout and log back in
+
 ## Fonts to install using Yay
 
 - SF Pro (apple-fonts)
