@@ -17,6 +17,7 @@
 | stow | nwg-lookup|
 | git | tree |
 | adw theme | papirus icons |
+| | pulseaudio |
 
 ## Linux Setup
 
@@ -29,7 +30,7 @@
 - Install oh-my-zsh from install script found on website
 - Install adw-gtk-theme
 - Install papirus-icon-theme
-
+- install sddm-sugar-dark
 - Change shell to zsh -> chsh -s /bin/zsh
 - Logout and log back in
 
@@ -40,3 +41,14 @@
 - JetBrains NF (ttf-jetbrains-mono-nerd)
 - Caskaydia Code NF (ttf-cascadia-code-nerd)
 - Font Awesome (otf-font-awesome)
+
+## Configure Linux
+
+- From home directory run: git clone https://github.com/dgonzal1102/dotfiles.git
+- cd into /dotfiles/scripts
+- cp walset -> ~/.config/scripts
+- cd into /dotfiles/sddm
+- cp -r sddm /usr/share
+- cp -r sddm.conf.d /etc
+- rm .zshrc
+- stow zshrc
