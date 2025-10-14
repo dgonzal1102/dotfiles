@@ -9,4 +9,4 @@ alias clr="clear"
 alias i="yay -S"
 alias s="yay -Ss"
 
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.config/scripts:$PATH"
