@@ -36,7 +36,7 @@
 ## Fonts to install using Yay
 
 - SF Pro (apple-fonts)
-- MesloLGS NF (ttf-meslo-nerd)
+- MesloLGS NF (ttf-meslo-nerd & ttf-meslo-nerd-font-powerlevel10k)
 - JetBrains NF (ttf-jetbrains-mono-nerd)
 - Caskaydia Code NF (ttf-cascadia-code-nerd)
 - Font Awesome (otf-font-awesome)
