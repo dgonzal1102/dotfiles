@@ -11,7 +11,7 @@
 | rofi | btop |
 | waybar | nwg-look |
 | fastfetch | nwg-display |
-| zshrc | oh my zsh |
+| zsh | oh my zsh |
 | matugen | vscodium |
 | yay | micro |
 | stow | tree |
