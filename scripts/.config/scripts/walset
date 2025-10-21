@@ -3,6 +3,3 @@
 img=$1
 
 matugen image "$img" &> /dev/null 
-
-
-#place script in ~/.local/bin/
