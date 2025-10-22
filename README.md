@@ -6,7 +6,7 @@
 - Install initial apps with pacman
 
 | Initial Apps | |
-| ------------ |
+| ------------ |-|
 | kitty | hyprland |
 | wofi | yay |
 | chromium | micro |
@@ -39,7 +39,7 @@
 - Logout and log back in
 
 | Install Fonts | |
-| ------------- |
+| ------------- |-|
 | SF Pro | apple-fonts |
 | MesloLGS NF | ttf-meslo-nerd & ttf-meslo-nerd-font-powerlevel10k |
 | JetBrains NF | ttf-jetbrains-mono-nerd |
